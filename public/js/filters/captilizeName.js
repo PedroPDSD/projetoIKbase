@@ -1,4 +1,4 @@
-angular.module("listatelefonica").filter("name", function(){
+angular.module("projeto").filter("name", function(){
     return(input)=>{
         let palavras=input.split(' ')
         let listaNomes=palavras.map((palavra)=>{

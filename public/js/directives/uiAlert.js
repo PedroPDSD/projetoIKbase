@@ -1,4 +1,4 @@
-angular.module('listatelefonica').directive('uiAlert', function(){
+angular.module('projeto').directive('uiAlert', function(){
     return{
         template: `
         <div class="ui-alert">

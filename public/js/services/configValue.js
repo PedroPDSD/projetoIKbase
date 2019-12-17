@@ -1,1 +1,1 @@
-angular.module("listatelefonica").value("config", {baseURL:"http://localhost:3400"})
+angular.module("projeto").value("config", {baseURL:"http://localhost:3000"})
